@@ -9,7 +9,7 @@ It helps you simulate traffic to any endpoint, measure performance, and view rea
 
 #### run:  ***npm i blasturl*** 
 
-Current version: 1.0.0
+Current version: 1.1.0
 
 ---
 
